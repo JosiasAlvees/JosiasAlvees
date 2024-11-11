@@ -1,4 +1,4 @@
-<h1 align = "center"> Hello 👋 I'm  Josias Alves </h1><h3 align = "center"> ☕ Developer Front - End 🏡 Alfenas - MG 🌎 Brazil 
+<h1 align = "center"> Hello 👋 I'm  Josias Alves </h1><h3 align = "center"> 🌟 Front-End Developer | 💻 Passionate about Technology and Innovation 🏡 From Alfenas - MG, Brazil 
 
 
 
